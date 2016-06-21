@@ -1,0 +1,10 @@
+[info]
+title=Rename File
+desc=Shows dialog to rename current file
+type=py-plugin
+subdir=syn_rename_file
+
+[ini]
+section=Commands
+id=Rename File
+params=run;
